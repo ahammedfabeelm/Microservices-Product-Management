@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.microservices.product",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "productManagement",
+    "packageName": "com.microservices.product",
+    "packageFolder": "com/microservices/product",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Njc5MmIzNjkwN2Y2NWU5MGMzYTE5YzZmMzVkM2Q0YTA1ZDMwNDBhZGJmMjEwMTNkODA4MzU0NzM0OTg5M2IzZjBkY2Q4ODdkOGM4MmVjNjhlYWIzMzY1NGJmNTA5ODI0NzAxNGQ3Nzg3ODE3ODMxZjEzZjIzNWZiN2IwN2E1YTE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1610061320542,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
